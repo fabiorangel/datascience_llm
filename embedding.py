@@ -17,4 +17,3 @@ for line in f:
 
 fout.close()
 f.close()
-
